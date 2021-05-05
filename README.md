@@ -1,6 +1,18 @@
-To view this app's DEMO click here:
-https://slack-clone-6ccad.web.app/
+# Slack-Clone
 
-(A Google account is needed to log in)
+### View DEMO: https://slack-clone-6ccad.web.app/
 
-ENJOY!
+## Technologies used
+
+### React.JS
+- React Libraries: 
+  - Material-ui icons
+  - react-router-dom
+- Google Firebase
+  - As a server
+  - As a Google login authentication - A google account is needed 
+
+### DON'T FORGET TO "npm i" !  :)
+
+#### ENJOY
+##### Naor
